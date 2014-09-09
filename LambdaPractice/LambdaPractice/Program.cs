@@ -57,7 +57,7 @@ namespace LambdaPractice
                 Console.WriteLine(all);
             }
             //print out all the products ordered by the longest word first using the OrderByDecending() extension and a foreach loop.  
-
+            Console.WriteLine(reversedProducts);
             //Note: you will not use a variable to store your list
 
 
